@@ -1,6 +1,6 @@
-# Calculator
+# Linux Calculator
 
-# Introduction
+### Introduction
 
 [_calculator.sh_](calculator.sh) is a bash script for performing arithmetic operations (including addition, subtraction, division and multiplication) on two numeric inputs.
 
@@ -10,7 +10,7 @@ If the selected operation is 'Division' and the second numeric input is '0', the
 
 Key concepts used in this script are: variables, while loops, case statements and if statements.
 
-# Prerequisites
+### Prerequisite
 
 For an Ubuntu distro you'll need to run the following
 
@@ -19,3 +19,7 @@ sudo apt install bc
 ```
 
 `bc` allows the script to perform decimal arithmetic operations.
+
+### Sample run
+
+![Screenshot 2024-03-13 083259](https://github.com/adedamola26/linux-projects/assets/122896944/3950d2ca-e2ba-4808-a02d-2e28be844823)
